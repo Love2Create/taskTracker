@@ -1,0 +1,10 @@
+.task_column_heading{
+    display: flex;
+    align-items: center;
+    color: #121240;
+}
+
+.task_column_icon {
+    width: 30px;
+    margin-right: 10px;
+}
